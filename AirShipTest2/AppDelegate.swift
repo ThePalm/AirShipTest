@@ -69,9 +69,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         uapush?.userPushNotificationsEnabled = true //dont delay asking user about push notification as they suggest. Our users are employees
         
-        
-        
-        
         return true
     }
     
